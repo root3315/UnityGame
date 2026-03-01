@@ -1,0 +1,7 @@
+{
+    "m_Name": "Content Update Group Schema",
+    "m_ClassName": "UnityEditor.AddressableAssets.Settings.GroupSchemas.ContentUpdateGroupSchema",
+    "m_SerializedData": {
+        "m_StaticContent": false
+    }
+}

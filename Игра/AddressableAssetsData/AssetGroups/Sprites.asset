@@ -1,0 +1,49 @@
+{
+    "m_Name": "Sprites",
+    "m_Guid": "b2c3d4e5f6789012345678abcdef0123",
+    "m_GroupGuid": "b2c3d4e5f6789012345678abcdef0123",
+    "m_DataGuid": "b2c3d4e5f6789012345678abcdef0124",
+    "m_BundledAssetGroupSchemas": [
+        {
+            "m_Name": "BundledAssetGroupSchema",
+            "m_ClassName": "UnityEditor.AddressableAssets.Settings.GroupSchemas.BundledAssetGroupSchema",
+            "m_SerializedData": {
+                "m_InternalBundleIdSuffix": "_sprites_bundle",
+                "m_Compression": 1,
+                "m_IncludeAddressables": true,
+                "m_IncludeReferencesToBundledAssets": false,
+                "m_InternalIdNaming": 0,
+                "m_CacheClearBehavior": 0,
+                "m_IncludeInBuild": true,
+                "m_ProviderType": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+                "m_BundleMode": 0,
+                "m_AssetBundleProviderType": {
+                    "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider"
+                }
+            }
+        }
+    ],
+    "m_ContentUpdateGroupSchema": {
+        "m_Name": "ContentUpdateGroupSchema",
+        "m_ClassName": "UnityEditor.AddressableAssets.Settings.GroupSchemas.ContentUpdateGroupSchema",
+        "m_SerializedData": {
+            "m_StaticContent": false
+        }
+    },
+    "m_Schemas": [
+        {
+            "m_Name": "BundledAssetGroupSchema",
+            "m_ClassName": "UnityEditor.AddressableAssets.Settings.GroupSchemas.BundledAssetGroupSchema"
+        },
+        {
+            "m_Name": "ContentUpdateGroupSchema",
+            "m_ClassName": "UnityEditor.AddressableAssets.Settings.GroupSchemas.ContentUpdateGroupSchema"
+        }
+    ],
+    "m_EntryData": {
+        "m_Entries": [],
+        "m_GroupModified": true
+    },
+    "m_SerializedData": []
+}

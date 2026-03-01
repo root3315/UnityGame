@@ -1,0 +1,61 @@
+{
+    "m_ProfileSettings": {
+        "m_Profiles": [
+            {
+                "m_Id": "Default",
+                "m_ProfileName": "Default",
+                "m_Values": {
+                    "UnityEditor.AddressableAssets.Settings.AddressableProfileSettings.BuildPath": "[UnityEditor.EditorBuildPath]/StreamingAssets",
+                    "UnityEditor.AddressableAssets.Settings.AddressableProfileSettings.LoadPath": "{UnityEngine.Application.streamingAssetsPath}/",
+                    "UnityEditor.AddressableAssets.Settings.AddressableProfileSettings.BuildPath_BundledBuilt": "[UnityEditor.EditorBuildPath]/StreamingAssets",
+                    "UnityEditor.AddressableAssets.Settings.AddressableProfileSettings.LoadPath_BundledBuilt": "{UnityEngine.Application.streamingAssetsPath}/"
+                }
+            }
+        ],
+        "m_ProfileEntryNames": [
+            {
+                "m_Id": "UnityEditor.EditorBuildPath",
+                "m_Name": "UNITY_EDITOR_BUILD_PATH",
+                "m_InlineUsage": false
+            },
+            {
+                "m_Id": "UnityEngine.Application.streamingAssetsPath",
+                "m_Name": "UNITY_STREAMING_ASSETS_PATH",
+                "m_InlineUsage": false
+            }
+        ]
+    },
+    "m_BuildSettings": {
+        "m_CompileScripts": true,
+        "m_BundleMode": 0,
+        "m_EditorHostedMode": true,
+        "m_StripUnityVersionFromBundleBuild": false,
+        "m_DisableVisibleSubAssetManifest": false,
+        "m_BundleBuildPath": "Temp/com.unity.addressables.build",
+        "m_LoadTypes": [],
+        "m_InternalIdNamingOverride": "",
+        "m_CacheClearBehavior": 0,
+        "m_BuildPath": "[UnityEditor.EditorBuildPath]/StreamingAssets",
+        "m_LoadPath": "{UnityEngine.Application.streamingAssetsPath}/",
+        "m_ReduceChunkSize": false,
+        "m_SceneLoadMode": 0
+    },
+    "m_LabelSettings": {
+        "m_Labels": [
+            "music",
+            "sprites",
+            "characters",
+            "environments",
+            "dungeons"
+        ]
+    },
+    "m_GroupSettings": [],
+    "m_SchemaTemplates": [],
+    "m_Groups": [],
+    "m_ImportLogJson": "",
+    "m_CachedHash": {
+        "serializedVersion": 2,
+        "Hash": 0
+    },
+    "m_SerializedData": []
+}

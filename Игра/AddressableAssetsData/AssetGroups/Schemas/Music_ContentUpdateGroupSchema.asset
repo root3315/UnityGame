@@ -1,0 +1,7 @@
+{
+    "m_Name": "Music_ContentUpdateGroupSchema",
+    "m_ClassName": "UnityEditor.AddressableAssets.Settings.GroupSchemas.ContentUpdateGroupSchema",
+    "m_SerializedData": {
+        "m_StaticContent": false
+    }
+}
